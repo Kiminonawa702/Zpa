@@ -62,7 +62,7 @@ async function WAStart() {
             if (timeDiff <= maxTime) {
               const emojis = [
     // Smiley Orang
-    "😎", "🤩", "🥳", 🫣"🤯", "🙀" 
+    "😎", "🤩", "🥳", "🤯", "🙀" 
     
     ];
 
