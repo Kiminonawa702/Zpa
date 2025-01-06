@@ -10,7 +10,7 @@
   "author": "WILY",
   "license": "MIT",
   "dependencies": {
-    "@whiskeysockets/baileys": "github:WhiskeySockets/Baileys",
+    "@whiskeysockets/baileys": "latest",
     "qrcode-terminal": "^0.12.0"
   }
 }
